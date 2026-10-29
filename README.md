@@ -1,4 +1,6 @@
-SAINTCON26 Hackers Challenge
+# SAINTCON26 Hackers Challenge
+
+## Base64 Sudoku
 
 Here's a copy of the CTF instructions for the first of the four "Base64 Sudoku" challenges:
 
