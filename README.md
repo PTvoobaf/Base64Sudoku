@@ -14,7 +14,7 @@ Here's a copy of the CTF instructions for the first of the four "Base64 Sudoku" 
 
 > (That is not the correct flag, but the correct flag follows the same pattern.)
 
-The puzzle generators are C# .NET console apps, developed incrementally using a SPEC-TODO-CODE methodology with milestones. Claude Haiku/Sonnet and ChatGPT 5.x helped write and test code, and so did a local AI with Mistral and gemma4 LLMs.
+The puzzle generators are C# .NET console apps, developed incrementally using a SPEC-TODO-CODE methodology with milestones. Claude Haiku/Sonnet and ChatGPT 5.x helped write and test code, and so did a local AI tool with Mistral and gemma4 LLMs.
 
 The `DLX64S*` folders contain code to generate a completely solved puzzle.
 
