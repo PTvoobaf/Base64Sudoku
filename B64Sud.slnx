@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="B64Sud.Tests/B64Sud.Tests.csproj" />
+  <Project Path="B64Sud/B64Sud.csproj" />
+  <Project Path="DLX64S.Tests/DLX64S.Tests.csproj" />
+  <Project Path="DLX64S/DLX64S.csproj" />
+</Solution>
